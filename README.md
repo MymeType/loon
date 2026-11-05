@@ -18,7 +18,7 @@ I am a die-hard fan of the Lisp syntax and have tried various dialects and their
 
 ### Why the name?
 
-[See here](looney-tune-rust-bro.mp3).
+https://www.youtube.com/watch?v=VNv3SYIYd7Y
 
 ## License
 
