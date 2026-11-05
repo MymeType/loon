@@ -18,7 +18,7 @@ I am a die-hard fan of the Lisp syntax and have tried various dialects and their
 
 ### Why the name?
 
-https://www.youtube.com/watch?v=VNv3SYIYd7Y
+https://youtu.be/VNv3SYIYd7Y?t=175
 
 ## License
 
