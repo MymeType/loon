@@ -6,6 +6,10 @@ Lisp for a more rusty era
 
 This is work-in-progress software and is NOT stable enough to be regularly used in production. It should only be used for testing and its development and there are no warranties for any damages that arise from its usage, proper or improper. You have been warned.
 
+## To do
+
+- ~~[ ] literally fucking everything lmfao~~
+
 ## Q&A
 
 ### Is this an implementation of an existing Lisp dialect?
