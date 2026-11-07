@@ -8,13 +8,17 @@ This is work-in-progress software and is NOT stable enough to be regularly used 
 
 ## To do
 
-- ~~[ ] literally fucking everything lmfao~~
+- [ ] Documentation
+- [ ] Self-hosted compiler
+   - [ ] Minimal compiler written in Rust for bootstrapping (important!)
+- [ ] REPL
+- [ ] basically literally fucking everything lmfao
 
 ## Q&A
 
 ### Is this an implementation of an existing Lisp dialect?
 
-No. Much like Clojure and Lisp Flavored Erlang were made from scratch for the JVM and the OTP platforms respectively, Loon has been made in-house specifically for the Rust ecosystem.
+No. While Loon inherits many concepts from dialects such as Scheme, Clojure and Hy, Loon has been made in-house specifically for the Rust ecosystem, much like LFE and the aforementioned Clojure and Hy.
 
 ### Why another Lisp dialect?
 
